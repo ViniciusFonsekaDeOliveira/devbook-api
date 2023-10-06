@@ -25,3 +25,5 @@ go.sum
 
 # Ignora o diretório de dados local do Go
 .local/
+
+.env
